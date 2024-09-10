@@ -6,7 +6,7 @@
 <h2 font-size="20" align="center">skidibiididibdii toilet</h2>
 
 
--<img align="middle" style="width:16rem; height:auto" src="https://c.tenor.com/qp_Ze6Uv9VcAAAAC/mind-reader-hypnotize.gif"/>
+
 
 
 
